@@ -1,24 +1,10 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic blog post app that allows you to create, and destroy articles.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.5
 
-* System dependencies
+* System dependencies: rails 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* To run this application install ruby on rails and run rails s on your console.
