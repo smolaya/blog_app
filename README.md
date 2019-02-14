@@ -1,10 +1,12 @@
 # README
-This is a basic blog post app that allows you to create, and destroy articles.
+* This is a basic blog post app that allows you to create, and destroy blog posts/articles.
 
-Things you may want to cover:
+## Installation
+* Clone the repository and run the following on your terminal:
+  * bundle, yarn install, rails db:drop db:create db:migrate db:seed
+* open a PostgreSQL server and run rails s in the terminal
+* Open your chrome browser and run localhost:3000 
 
-* Ruby version: 2.5
+## Future Additions
+* Stylize the page more to make look attractive for users.
 
-* System dependencies: rails 
-
-* To run this application install ruby on rails and run rails s on your console.
